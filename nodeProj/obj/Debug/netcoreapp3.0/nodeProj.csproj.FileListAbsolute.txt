@@ -9,3 +9,14 @@ C:\Users\ywt901\source\repos\nodeProj\nodeProj\obj\Debug\netcoreapp3.0\nodeProj.
 C:\Users\ywt901\source\repos\nodeProj\nodeProj\obj\Debug\netcoreapp3.0\nodeProj.AssemblyInfo.cs
 C:\Users\ywt901\source\repos\nodeProj\nodeProj\obj\Debug\netcoreapp3.0\nodeProj.dll
 C:\Users\ywt901\source\repos\nodeProj\nodeProj\obj\Debug\netcoreapp3.0\nodeProj.pdb
+C:\Users\nnpen\Documents\apps\tree\nodeProj\bin\Debug\netcoreapp3.0\nodeProj.exe
+C:\Users\nnpen\Documents\apps\tree\nodeProj\bin\Debug\netcoreapp3.0\nodeProj.deps.json
+C:\Users\nnpen\Documents\apps\tree\nodeProj\bin\Debug\netcoreapp3.0\nodeProj.runtimeconfig.json
+C:\Users\nnpen\Documents\apps\tree\nodeProj\bin\Debug\netcoreapp3.0\nodeProj.runtimeconfig.dev.json
+C:\Users\nnpen\Documents\apps\tree\nodeProj\bin\Debug\netcoreapp3.0\nodeProj.dll
+C:\Users\nnpen\Documents\apps\tree\nodeProj\bin\Debug\netcoreapp3.0\nodeProj.pdb
+C:\Users\nnpen\Documents\apps\tree\nodeProj\obj\Debug\netcoreapp3.0\nodeProj.AssemblyInfoInputs.cache
+C:\Users\nnpen\Documents\apps\tree\nodeProj\obj\Debug\netcoreapp3.0\nodeProj.AssemblyInfo.cs
+C:\Users\nnpen\Documents\apps\tree\nodeProj\obj\Debug\netcoreapp3.0\nodeProj.dll
+C:\Users\nnpen\Documents\apps\tree\nodeProj\obj\Debug\netcoreapp3.0\nodeProj.pdb
+C:\Users\nnpen\Documents\apps\tree\nodeProj\obj\Debug\netcoreapp3.0\nodeProj.csprojAssemblyReference.cache
